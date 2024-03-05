@@ -1,0 +1,30 @@
+.form {
+    background-color: #3a870b;
+    padding: 1rem;
+    margin: 2rem auto;
+    width: 20rem;
+    border-radius: 6px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.form p {
+    display: flex;
+    flex-direction: column;
+}
+
+.form label {
+    margin-bottom: 0.05rem;
+    font-weight: bold;
+    color: rgb(220, 240, 228);
+}
+
+.form input,
+.form textarea {
+    padding: 0.5rem;
+    border-radius: 6px;
+    border: none;
+    background-color: #7ebc85;
+    color: rgb(220, 240, 228);
+
+
+}
