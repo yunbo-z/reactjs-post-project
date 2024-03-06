@@ -5,7 +5,6 @@ import NewPost from './components/NewPost'
 function App() {
   return (
     <main>
-      <NewPost></NewPost>
       <PostList></PostList>
     </main>
   )
